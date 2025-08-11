@@ -250,6 +250,8 @@ p.note { display: none; }
 <a href="20250811_044.JPG" target="_blank"><img src="20250811_044.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250811_045.JPG" target="_blank"><img src="20250811_045.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250811_046.JPG" target="_blank"><img src="20250811_046.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">車を止めた場所は忘れないようにしっかり撮影</span></h2>
 <a href="20250811_047.JPG" target="_blank"><img src="20250811_047.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250811_048.JPG" target="_blank"><img src="20250811_048.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250811_049.JPG" target="_blank"><img src="20250811_049.JPG" alt="サンプル画像" class="responsive-media"></a>
