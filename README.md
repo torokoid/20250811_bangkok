@@ -253,6 +253,8 @@ p.note { display: none; }
 
 <h2><span class="yellow">車を止めた場所は忘れないようにしっかり撮影</span></h2>
 <a href="20250811_047.JPG" target="_blank"><img src="20250811_047.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">地下駐車場から上がった場所もしっかり撮影</span></h2>
 <a href="20250811_048.JPG" target="_blank"><img src="20250811_048.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250811_049.JPG" target="_blank"><img src="20250811_049.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250811_050.JPG" target="_blank"><img src="20250811_050.JPG" alt="サンプル画像" class="responsive-media"></a>
